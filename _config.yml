@@ -1,0 +1,8 @@
+title: C-CDAA viewer
+description: HL7 Tooling Challenge C-CDA Viewer
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
